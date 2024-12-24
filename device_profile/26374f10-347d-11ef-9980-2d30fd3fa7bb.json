@@ -1,0 +1,46 @@
+{
+  "entityType" : "DEVICE_PROFILE",
+  "entity" : {
+    "default" : false,
+    "defaultDashboardId" : null,
+    "defaultEdgeRuleChainId" : {
+      "entityType" : "RULE_CHAIN",
+      "id" : "1ba286b0-c591-11ee-a401-3d590cef9d54"
+    },
+    "defaultQueueName" : "Main",
+    "defaultRuleChainId" : {
+      "entityType" : "RULE_CHAIN",
+      "id" : "1b893250-c591-11ee-a401-3d590cef9d54"
+    },
+    "description" : "",
+    "externalId" : null,
+    "firmwareId" : null,
+    "id" : {
+      "entityType" : "DEVICE_PROFILE",
+      "id" : "26374f10-347d-11ef-9980-2d30fd3fa7bb"
+    },
+    "image" : null,
+    "name" : "hemsMini",
+    "profileData" : {
+      "alarms" : null,
+      "configuration" : {
+        "type" : "DEFAULT"
+      },
+      "provisionConfiguration" : {
+        "type" : "ALLOW_CREATE_NEW_DEVICES",
+        "provisionDeviceSecret" : "za8u4gaw4m2g0ua64dn8"
+      },
+      "transportConfiguration" : {
+        "type" : "DEFAULT"
+      }
+    },
+    "provisionDeviceKey" : "zpr3dzgfytvohhkz5o4f",
+    "provisionType" : "ALLOW_CREATE_NEW_DEVICES",
+    "softwareId" : null,
+    "transportType" : "DEFAULT",
+    "type" : "DEFAULT"
+  },
+  "attributes" : {
+    "SERVER_SCOPE" : [ ]
+  }
+}
